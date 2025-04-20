@@ -1,6 +1,8 @@
 # 🐞 *BUG JUMP - Como Funciona*
 *A chaotic journey through code errors!*  
 
+<img src="print.png" alt="Game Screenshot" width="700" height="auto">
+
 Um jogo simples e divertido inspirado no Flappy Bird, mas com uma temática de programação. Controle um bug programador e desvie de obstáculos baseados em erros de código!
 
 ## 🎮 **Mecânica do Jogo**
@@ -44,10 +46,6 @@ Compile e execute (F5).
 Faça um fork, adicione melhorias e envie um PR!
 
 🎮 Divirta-se e tente bater o high score!
-
-
-![Game Screenshot](preview.png)  
-
 
 💬 Dúvidas? Abra uma issue no GitHub!
 
