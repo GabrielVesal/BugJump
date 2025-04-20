@@ -1,0 +1,10 @@
+C:\Users\gatal\source\repos\BugJump\BugJump\bin\Debug\BugJump.exe.config
+C:\Users\gatal\source\repos\BugJump\BugJump\bin\Debug\BugJump.exe
+C:\Users\gatal\source\repos\BugJump\BugJump\bin\Debug\BugJump.pdb
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.csproj.AssemblyReference.cache
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.Form.resources
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.Properties.Resources.resources
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.csproj.GenerateResource.cache
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.csproj.CoreCompileInputs.cache
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.exe
+C:\Users\gatal\source\repos\BugJump\BugJump\obj\Debug\BugJump.pdb
